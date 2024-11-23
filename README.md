@@ -9,20 +9,14 @@
 <h2 align="left">🔨Working on</h2>
 
 ###
-
-<br clear="both">
-
-<p align="left">- Raytracing Engine in C++</p>
+- Raytracing Engine in C++
 
 ###
-
 <h2 align="left">✅Finished Public Projects</h2>
 
 ###
 
-<br clear="both">
-
-<p align="left">- Artemis GSI Mod for the game Subnautica Below Zero</p>
+- [Artemis GSI Mod](https://github.com/strillard/Subnautica-Below-Zero-Artemis-GSI-Mod) for the game Subnautica Below Zero 
 
 ###
 
